@@ -1,9 +1,7 @@
 # Warzone-Unlock-All
 
 original source is from https://www.unknowncheats.me/forum/call-of-duty-modern-warfare/459738-mw-soft-unlocker-1-0-a.html
+By Endoh 
 
-so credits for original version goes to Endoh 
 
-
-i have modifed this source to unlock everything basically all DLC weapons + Operators + Veichle Skins and Emblems + Calling cards
-hope this source comes to use for all of you i will be making more and more changes to this source in the fututre as i have my own warzone cheat and im working on that i will maybe release basic esp + aimbot later on enjoy guys :) leave a star
+Made a couple of DLC Updates a while back definitely out of date and will not be getting more updates from me. Do what you wish with this just remember to credit Endoh for his amazing work. Just a word of advice Do. Not. Go into a game with this injected save blueprints and exit the game restart your PC and then play.
